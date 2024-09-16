@@ -1,0 +1,492 @@
+[
+  {
+    "id": 1,
+    "username": "Pınar",
+    "password": "123",
+    "name": "Pınar Nur",
+    "surname": "Demirtaş",
+    "email": "pinar@example.com",
+    "phone": "555-1234",
+    "github": "https://github.com/pinarnurdemirtas",
+    "linked": "https://www.linkedin.com/in/p%C4%B1nar-nur-demirta%C5%9F/",
+    "profilePicture": "https://avatars.githubusercontent.com/u/112588321?v=4",
+    "address": "İstanbul, Türkiye",
+    "birthdate": "1998-05-10",
+    "education": [
+      {
+        "degree": "Computer Engineering",
+        "school": "Trakya University",
+        "graduationYear": 2022
+      }
+    ],
+    "experience": [
+      {
+        "position": "Frontend Developer Intern",
+        "company": "İstanbul Büyükşehir Belediyesi",
+        "duration": "Jun 2023 - Aug 2023"
+      }
+    ],
+    "skills": [
+      "React",
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "Tailwind CSS",
+      "Kotlin"
+    ]
+  },
+  {
+    "id": 2,
+    "username": "Sevde",
+    "password": "456",
+    "name": "Sevde Hilal",
+    "surname": "Durak",
+    "email": "sevde@example.com",
+    "phone": "555-5678",
+    "profilePicture": "https://avatars.githubusercontent.com/u/120177532?v=4",
+    "address": "Edirne, Türkiye",
+    "birthdate": "1999-03-22",
+    "education": [
+      {
+        "degree": "Software Engineering",
+        "school": "Trakya University",
+        "graduationYear": 2023
+      }
+    ],
+    "experience": [
+      {
+        "position": "Frontend Developer Intern",
+        "company": "ABC Solutions",
+        "duration": "Jul 2023 - Sep 2023"
+      }
+    ],
+    "skills": [
+      "Java",
+      "React",
+      "MySQL",
+      "Node.js"
+    ]
+  },
+  {
+    "id": 3,
+    "username": "Yağmur",
+    "password": "131415",
+    "name": "Yağmur Gökçe",
+    "surname": "Özer",
+    "email": "yağmur@example.com",
+    "phone": "555-6789",
+    "profilePicture": "https://media.licdn.com/dms/image/v2/D5603AQFImQ1M1EWzyw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1725951567613?e=1731542400&v=beta&t=QWf2nEM7Oib5JffBUGBW3woTTaEuCUl-E5UIym0ne-w",
+    "address": "Antalya, Türkiye",
+    "birthdate": "1997-09-20",
+    "education": [
+      {
+        "degree": "Data Science",
+        "school": "Koç University",
+        "graduationYear": 2023
+      }
+    ],
+    "experience": [
+      {
+        "position": "Data Analyst Intern",
+        "company": "DataTech",
+        "duration": "Apr 2023 - Sep 2023"
+      }
+    ],
+    "skills": [
+      "Python",
+      "R",
+      "Pandas",
+      "Machine Learning",
+      "SQL"
+    ]
+  },
+  {
+    "id": 4,
+    "username": "Zeynep",
+    "password": "222324",
+    "name": "Zeynep",
+    "surname": "Akdeniz",
+    "email": "zeynep@example.com",
+    "phone": "555-2345",
+    "profilePicture": "https://media.licdn.com/dms/image/v2/D4D03AQEhMOcohApRAA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1714905180304?e=1730937600&v=beta&t=yCboWmEKXLl2iUIq1cYToC0hInpFxJgpEjgizdH8zR8",
+    "address": "Eskişehir, Türkiye",
+    "birthdate": "1996-12-14",
+    "education": [
+      {
+        "degree": "Business Administration",
+        "school": "Bilkent University",
+        "graduationYear": 2024
+      }
+    ],
+    "experience": [
+      {
+        "position": "Marketing Intern",
+        "company": "MarketGenius",
+        "duration": "May 2024 - Sep 2024"
+      }
+    ],
+    "skills": [
+      "Digital Marketing",
+      "SEO",
+      "Google Analytics",
+      "Content Creation"
+    ]
+  },
+  {
+    "id": 5,
+    "username": "Burak",
+    "password": "282930",
+    "name": "Burak",
+    "surname": "Aksoy",
+    "email": "burak@example.com",
+    "phone": "555-4567",
+    "profilePicture": "https://media.licdn.com/dms/image/v2/D4D03AQH93L1U41GCYw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1720854812303?e=1730937600&v=beta&t=Ih_rpsktJ6lbpffq48qp3IUDGqnVn84wdvD2bPerjEU",
+    "address": "Kayseri, Türkiye",
+    "birthdate": "1999-04-25",
+    "education": [
+      {
+        "degree": "International Relations",
+        "school": "Hacettepe University",
+        "graduationYear": 2023
+      }
+    ],
+    "experience": [
+      {
+        "position": "Frontend Developer Intern",
+        "company": "GlobalInsight",
+        "duration": "Jul 2023 - Dec 2023"
+      }
+    ],
+    "skills": [
+      "Research",
+      "Data Analysis",
+      "Policy Analysis",
+      "Microsoft Office"
+    ]
+  },
+  {
+    "id": 6,
+    "username": "Beyza",
+    "password": "161718",
+    "name": "Beyza",
+    "surname": "Kaleli",
+    "email": "beyza@example.com",
+    "phone": "555-7890",
+    "profilePicture": "https://media.licdn.com/dms/image/v2/D4D03AQHPaBd23zxTrw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1710951254181?e=1730937600&v=beta&t=jEVMdsrxdlawdchnOnFYf0opS6FJJyCQ-d4aAtznxdM",
+    "address": "Adana, Türkiye",
+    "birthdate": "2002-02-28",
+    "education": [
+      {
+        "degree": "Electrical Engineering",
+        "school": "Mimar Sinan Fine Arts University",
+        "graduationYear": 2025
+      }
+    ],
+    "experience": [
+      {
+        "position": "Backend Developer",
+        "company": "CreativeWorks",
+        "duration": "Jun 2023 - Sep 2023"
+      }
+    ],
+    "skills": [
+      "Illustrator",
+      "InDesign",
+      "Photoshop",
+      "HTML",
+      "CSS"
+    ]
+  },
+  {
+    "id": 7,
+    "username": "Ali",
+    "password": "789",
+    "name": "Ali Can",
+    "surname": "Yılmaz",
+    "email": "ali@example.com",
+    "phone": "555-9876",
+    "profilePicture": "https://media.licdn.com/dms/image/v2/D4D03AQENAyMvPex6MA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1719308126631?e=1730937600&v=beta&t=PGWMF5_O1K1mRJN9PSxSMj8-SqM9bmnLHkRyXaLc2SY",
+    "address": "İzmir, Türkiye",
+    "birthdate": "2000-07-15",
+    "education": [
+      {
+        "degree": "Computer Science",
+        "school": "Ege University",
+        "graduationYear": 2024
+      }
+    ],
+    "experience": [
+      {
+        "position": "Frontend Developer Intern",
+        "company": "DesignPro",
+        "duration": "Jan 2024 - May 2024"
+      }
+    ],
+    "skills": [
+      "Figma",
+      "Photoshop",
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ]
+  },
+  {
+    "id": 8,
+    "username": "Mehmet",
+    "password": "192021",
+    "name": "Mehmet Ali",
+    "surname": "Çelik",
+    "email": "mehmet@example.com",
+    "phone": "555-1234",
+    "profilePicture": "https://media.licdn.com/dms/image/v2/D4D03AQFt_HqBzQzFvw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1673814134866?e=1730937600&v=beta&t=UO5rYKA60l8CWlscAeYQykfhAQaQ1wQbvr3suEHo29Q",
+    "address": "Konya, Türkiye",
+    "birthdate": "1995-06-10",
+    "education": [
+      {
+        "degree": "Electrical Engineering",
+        "school": "Middle East Technical University",
+        "graduationYear": 2020
+      }
+    ],
+    "experience": [
+      {
+        "position": "Embedded Systems Intern",
+        "company": "TechElectro",
+        "duration": "Jan 2023 - Jun 2023"
+      }
+    ],
+    "skills": [
+      "C",
+      "C++",
+      "Embedded Systems",
+      "PCB Design",
+      "MATLAB"
+    ]
+  },
+  {
+    "id": 9,
+    "username": "Taha",
+    "password": "161718",
+    "name": "Taha",
+    "surname": "Aydın",
+    "email": "taha@example.com",
+    "phone": "555-7890",
+    "profilePicture": "https://media.licdn.com/dms/image/v2/C4D03AQFK13hsauvGLA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1551553206718?e=1730937600&v=beta&t=zbe2zbuj_2Fb3s6MQj7gMwThhWO7GfT7m3qvlry5ugw",
+    "address": "Adana, Türkiye",
+    "birthdate": "2002-02-28",
+    "education": [
+      {
+        "degree": "Graphic Design",
+        "school": "Mimar Sinan Fine Arts University",
+        "graduationYear": 2025
+      }
+    ],
+    "experience": [
+      {
+        "position": "Graphic Design Intern",
+        "company": "CreativeWorks",
+        "duration": "Jun 2023 - Sep 2023"
+      }
+    ],
+    "skills": [
+      "Illustrator",
+      "InDesign",
+      "Photoshop",
+      "HTML",
+      "CSS"
+    ]
+  },
+  {
+    "id": 10,
+    "username": "Ezgi",
+    "password": "161718",
+    "name": "Ezgi",
+    "surname": "Akan",
+    "email": "ezgi@example.com",
+    "phone": "555-7890",
+    "profilePicture": "https://media.licdn.com/dms/image/v2/D4D03AQFrdSw9oumaNA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1672898667458?e=1730937600&v=beta&t=vbMZX7zue18UvlRFbq6lERRmGjvnYyTjgvRqPKc15Ss",
+    "address": "Adana, Türkiye",
+    "birthdate": "2002-02-28",
+    "education": [
+      {
+        "degree": "Graphic Design",
+        "school": "Mimar Sinan Fine Arts University",
+        "graduationYear": 2025
+      }
+    ],
+    "experience": [
+      {
+        "position": "Graphic Design Intern",
+        "company": "CreativeWorks",
+        "duration": "Jun 2023 - Sep 2023"
+      }
+    ],
+    "skills": [
+      "Illustrator",
+      "InDesign",
+      "Photoshop",
+      "HTML",
+      "CSS"
+    ]
+  },
+  {
+    "id": 11,
+    "username": "Deniz",
+    "password": "303132",
+    "name": "Deniz",
+    "surname": "Yılmaz",
+    "email": "deniz@example.com",
+    "phone": "555-2346",
+    "profilePicture": "https://media.licdn.com/dms/image/v2/C4D03AQHNDT6HOXldCQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1652213591468?e=1731542400&v=beta&t=X7AY9LvsDK0uhOJukc8PfKTuN2bn9Xnw0KA_LhE9khk",
+    "address": "İstanbul, Türkiye",
+    "birthdate": "1998-11-11",
+    "education": [
+      {
+        "degree": "Software Engineering",
+        "school": "Boğaziçi University",
+        "graduationYear": 2023
+      }
+    ],
+    "experience": [
+      {
+        "position": "Backend Developer Intern",
+        "company": "Tech Innovations",
+        "duration": "Mar 2024 - Sep 2024"
+      }
+    ],
+    "skills": [
+      "React",
+      "JavaScript",
+      "CSS",
+      "Node.js"
+    ]
+  },
+  {
+    "id": 12,
+    "username": "Elif",
+    "password": "333435",
+    "name": "Elif",
+    "surname": "Kara",
+    "email": "elif@example.com",
+    "phone": "555-3456",
+    "profilePicture": "https://media.licdn.com/dms/image/v2/C4D03AQE5bLPzN8HSkQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1660385536804?e=1731542400&v=beta&t=1XAxw4d3bctqsr3miZzJstEa78fBr8gusemdsNdARSI",
+    "address": "Bursa, Türkiye",
+    "birthdate": "1997-07-07",
+    "education": [
+      {
+        "degree": "Computer Engineering",
+        "school": "Sabancı University",
+        "graduationYear": 2024
+      }
+    ],
+    "experience": [
+      {
+        "position": "Backend Developer Intern",
+        "company": "Web Solutions",
+        "duration": "Jun 2023 - Sep 2023"
+      }
+    ],
+    "skills": [
+      "Java",
+      "Spring Boot",
+      "SQL",
+      "REST APIs"
+    ]
+  },
+  {
+    "id": 13,
+    "username": "Mert",
+    "password": "363738",
+    "name": "Mert",
+    "surname": "Yurt",
+    "email": "mert@example.com",
+    "phone": "555-4568",
+    "profilePicture": "https://media.licdn.com/dms/image/v2/D4D03AQGKy9OVK_8aaA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1673147634570?e=1731542400&v=beta&t=Cf0RwvVolQevrzg9yb-1NrShuWH3UKcVev2vlIone2Y",
+    "address": "Ankara, Türkiye",
+    "birthdate": "1996-10-10",
+    "education": [
+      {
+        "degree": "Data Science",
+        "school": "Koç University",
+        "graduationYear": 2023
+      }
+    ],
+    "experience": [
+      {
+        "position": "Data Scientist Intern",
+        "company": "Data Analytics Inc.",
+        "duration": "Apr 2024 - Aug 2024"
+      }
+    ],
+    "skills": [
+      "Python",
+      "Machine Learning",
+      "TensorFlow",
+      "SQL"
+    ]
+  },
+  {
+    "id": 14,
+    "username": "Gizem",
+    "password": "394041",
+    "name": "Gizem",
+    "surname": "Kurt",
+    "email": "gizem@example.com",
+    "phone": "555-5679",
+    "profilePicture": "https://media.licdn.com/dms/image/v2/D4D03AQG_fGi__ifftA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1723756507793?e=1731542400&v=beta&t=K4stdX9GydS8fb5t-eR3-kQcQCQjeY7tpLLuBnlsTqY",
+    "address": "İzmir, Türkiye",
+    "birthdate": "2000-06-15",
+    "education": [
+      {
+        "degree": "Graphic Design",
+        "school": "Marmara University",
+        "graduationYear": 2024
+      }
+    ],
+    "experience": [
+      {
+        "position": "Graphic Design Intern",
+        "company": "Creative Studios",
+        "duration": "May 2024 - Sep 2024"
+      }
+    ],
+    "skills": [
+      "Illustrator",
+      "Photoshop",
+      "InDesign",
+      "UI/UX Design"
+    ]
+  },
+  {
+    "id": 15,
+    "username": "Hakan",
+    "password": "424344",
+    "name": "Hakan",
+    "surname": "Kara",
+    "email": "hakan@example.com",
+    "phone": "555-6780",
+    "profilePicture": "https://media.licdn.com/dms/image/v2/D4E03AQHL2IfDW287Dw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1665695698035?e=1731542400&v=beta&t=DkZohia8c1L5bgwGn3c9FoIirbRiiOh73GfEs8NdpxI",
+    "address": "Bolu, Türkiye",
+    "birthdate": "1998-01-20",
+    "education": [
+      {
+        "degree": "Computer Science",
+        "school": "Dokuz Eylül University",
+        "graduationYear": 2023
+      }
+    ],
+    "experience": [
+      {
+        "position": "Full Stack Developer Intern",
+        "company": "Innovative Tech",
+        "duration": "Jan 2024 - Jun 2024"
+      }
+    ],
+    "skills": [
+      "JavaScript",
+      "React",
+      "Node.js",
+      "MongoDB"
+    ]
+  }
+]
